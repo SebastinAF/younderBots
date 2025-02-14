@@ -1,0 +1,64 @@
+body{
+    background-color: rgba(240, 248, 255, 0.705);
+}
+
+h1{
+    text-align: center;
+}
+
+.top{
+    margin-right: 50px;
+    text-align: end;
+    margin-top: -50px;
+}
+
+.dropdown{
+    margin: 30px;
+}
+
+img{
+     margin-top: 20px;
+     height: 600px;
+     width: 80%;
+     margin-left: 100px;
+}
+
+#owner{
+    padding: 10px;
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+}
+
+#log{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+#up{
+    padding: 10px;
+    border-radius: 50px;
+    background-color: rgb(3, 3, 3);
+    color: rgb(255, 255, 255);
+}
+
+pre{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact {
+       margin-left: 600px
+}
+
+.footer {
+   text-align: center;
+   color: white;
+   font-size: larger;
+   background-color: rgb(50, 78, 241);
+
+}
